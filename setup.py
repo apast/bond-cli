@@ -10,7 +10,7 @@ with open("VERSION", "r") as _file:
     VERSION = _file.readline().strip()
 
 setup(
-    name="bond-cli",
+    name="bondhome",
     version=VERSION,
     author="Olibra",
     packages=find_packages(),
