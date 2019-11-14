@@ -1,0 +1,2 @@
+include requirements.txt requirements-test.txt README.md VERSION
+prune bond-events/tests
